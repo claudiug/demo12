@@ -8,3 +8,6 @@ def index(request):
 
 def tell_me(request):
     return render("demo")
+
+def help(request):
+    return "demo"
