@@ -11,3 +11,6 @@ def tell_me(request):
 
 def help(request):
     return "demo"
+
+def cucu():
+    return "cucu"
